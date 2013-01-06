@@ -1,0 +1,10 @@
+Package: com.yourcompany.testest
+Name: testest
+Depends: mobilesubstrate
+Version: 0.0.1-8
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: AlexWu
+Author: AlexWu
+Section: Tweaks
+Installed-Size: 16
