@@ -4,15 +4,15 @@
 
 -(void)applicationDidFinishLaunching:(id)application {
     %orig;
-    /*
+    
     UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"哈啊和!" 
-        message:@"我把SpringBoard黑掉了!!" 
+        message:@"YOU"VE HACKED SPRINGBOARD!" 
         delegate:nil 
-        cancelButtonTitle:@"我擦!" 
+        cancelButtonTitle:@"YES" 
         otherButtonTitles:nil];
     [alert show];
     [alert release];
-*/
+
 }
 
 %end
